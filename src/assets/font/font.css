@@ -1,0 +1,41 @@
+@font-face {
+    font-family: "Hiragino Sans GB";
+    src: url('Hiragino-Sans-GB-W3.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "OPPOSans-B";
+    src: url('OPPOSans-B.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "PingFang SC";
+    src: url('PingFang-SC-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Helvetica Neue";
+    src: url('helveticaneue-light.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Furore";
+    src: url('Furore.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "butteyhoney";
+    src: url('butteyhoney-d95a7.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
