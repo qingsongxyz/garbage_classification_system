@@ -18,7 +18,7 @@ app.use(router)
 //设置全局语言为中文
 app.use(ElementPlus, { locale: zhCn })
 app.use(BaiduMap, {
-    ak: 't8yaRYeMGEUaYC7b49sQoHi36bDpjFgp',
+    ak: '',
 });
 //echarts按需引入
 app.config.globalProperties.$echarts = echarts;
